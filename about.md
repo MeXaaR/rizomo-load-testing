@@ -1,2 +1,3 @@
-title: "about"
-description: Bookmark this to keep an eye on my project updates!
+layout: page
+title: "PAGE TITLE"
+permalink: /about
